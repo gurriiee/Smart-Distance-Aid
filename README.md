@@ -2,7 +2,7 @@
 <h1 align="center">Smart Distance Warning Aid</h1>
 
 <p align="center">
-  <img src="banne.png" alt="Smart Distance Aid Banner"/>
+  <img src="banner.png" alt="Smart Distance Aid Banner"/>
 </p>
 
 <p align="center"><i>
